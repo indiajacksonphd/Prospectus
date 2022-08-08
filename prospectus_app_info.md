@@ -6,7 +6,7 @@ bdtquujydnsrschogx@nthrl.com
 
 JewelJH!1
 
-All of the applications are on the user homepage, however if you would like to view each applicaion separately they are below
+All of the applications are on the user homepage, however if you would like to view each applicaion separately they are below:
 
 [CSS Transformation](https://www.lgphy.com/Prospectus/cdaw)
 
