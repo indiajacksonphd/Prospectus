@@ -6,7 +6,9 @@ Here is the link to the video demonstrations. It is in my [YouTube Playlist](htt
 
 # Software
 
-Here is the link to [Register or Login](https://www.lgphy.com/Prospectus/register). You can register a new account or login with this email(bdtquujydnsrschogx@nthrl.com) and password(JewelJH!1):
+Here is the link to [Register](https://www.lgphy.com/Prospectus/register). 
+
+Here is the link to the [Tester Account](https://www.lgphy.com/Prospectus/profile)
 
 
 All of the applications are on the user profile homepage, however if you would like to view each applicaion separately they are below:
