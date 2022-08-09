@@ -8,7 +8,7 @@ Here is the link to the video demonstrations. It is in my [YouTube Playlist](htt
 
 Here is the link to [Register](https://www.lgphy.com/Prospectus/register). 
 
-Here is the link to the [Tester Account](https://www.lgphy.com/Prospectus/profile)
+Here is the link to the [Tester Account](https://www.lgphy.com/Prospectus/profile.html)
 
 
 All of the applications are on the user profile homepage, however if you would like to view each applicaion separately they are below:
