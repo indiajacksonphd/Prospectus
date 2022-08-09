@@ -19,4 +19,4 @@ All of the applications are on the user profile homepage, however if you would l
 
 [Real-Time Chat](https://www.lgphy.com/Prospectus/webSockets3)
 
-[Jupyter](http://jupyter.lgphy.com)
+[Jupyter:](http://jupyter.lgphy.com) Password JewelJH1
