@@ -17,6 +17,6 @@ All of the applications are on the user profile homepage, however if you would l
 
 [Python Editor](https://www.lgphy.com/Prospectus/editor)
 
-[Real-Time Chat](https://www.lgphy.com/Prospectus/webSockets3)
+[Real-Time Chat](https://www.lgphy.com/Prospectus/webSockets3.html)
 
 [Jupyter:](http://jupyter.lgphy.com) Password JewelJH1
