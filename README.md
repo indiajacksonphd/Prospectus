@@ -1,2 +1,2 @@
 # Prospectus
-My prospectus files
+My PhD Prospectus Information and Details
