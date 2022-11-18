@@ -4,7 +4,7 @@ Here is the link to my [Thesis Proposal](https://github.com/indiajacksonphd/Pros
 
 # Powerpoint Presentation
 
-Here is the link to my [Powerpoint Presentation](https://lgphycloudlogs1.s3.amazonaws.com/Thesis_Presentation_Draft.pptx). The file is large because of the video demonstrations so it has to be downloaded.
+Here is the link to my [Powerpoint Presentation](https://lgphycloudlogs1.s3.amazonaws.com/Thesis_Presentation_Github.pptx). The file is large because of the video demonstrations so it has to be downloaded.
 
 Here is the link to the video demonstrations. It is in my [YouTube Playlist](https://youtube.com/playlist?list=PL-T0I3fxOcvVJBNP93d7mB2vLIDHOti3b)
 
