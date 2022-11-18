@@ -1,6 +1,6 @@
 # Thesis Proposal
 
-Here is the link to my [Thesis_Proposal_Final_3.pdf](https://github.com/indiajacksonphd/Prospectus/files/10045254/Thesis_Proposal_Final_3.pdf)
+Here is the link to my [Thesis Proposal](https://github.com/indiajacksonphd/Prospectus/files/10045254/Thesis_Proposal_Final_3.pdf)
 
 # Powerpoint Presentation
 
