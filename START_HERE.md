@@ -1,3 +1,7 @@
+# Thesis Proposal
+
+Here is the link to my [Thesis_Proposal_Final_3.pdf](https://github.com/indiajacksonphd/Prospectus/files/10045254/Thesis_Proposal_Final_3.pdf)
+
 # Powerpoint Presentation
 
 Here is the link to my [Powerpoint Presentation](https://lgphycloudlogs1.s3.amazonaws.com/Prospectus.pptx). The file is large because of the video demonstrations so it has to be downloaded.
